@@ -1,2 +1,2 @@
 # latihan-c
-latihan git dengan 11 rpl c
+latihan git dengan xi rpl c
